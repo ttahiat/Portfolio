@@ -1,10 +1,21 @@
 # Robotics Engineer
 
 ## Education
-- Masters in Robotics and Autonomous Systems | University of Bath (Oct 2022 - Nov 2023)
-- Bachelor Degree in Electrical and Electronic Engineering | BRAC University (Sept 2017 - June 2021)
-- A level | International Turkish Hope School | (August 2015 - June 2017) | B B B
-- O level | International Turkish Hope School | (August 2014 - June 2015) | 5 A* 1 A 1 B 
+- **Masters in Robotics and Autonomous Systems**
+  - University of Bath (Oct 2022 - Nov 2023)
+  - Merit
+
+- **Bachelor Degree in Electrical and Electronic Engineering**
+  - BRAC University (Sept 2017 - June 2021)
+  - GPA: 3.82/4
+
+- **A level**
+  - International Turkish Hope School (August 2015 - June 2017)
+  - Grades: B B B
+
+- **O level**
+  - International Turkish Hope School (August 2014 - June 2015)
+  - Grades: 5 A* 1 A 1 B 
 
 ## Work Experience
 
