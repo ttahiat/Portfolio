@@ -45,6 +45,7 @@ project execution.
 - Explore my published artwork: Global Commons. This piece, supported by the Open Society University Network, portrays a poignant scene of a child beside their mother's blood during the Bangladesh liberation war, reflecting on the enduring trauma of conflict.
 - Developed proficiency in digital marketing and Adobe Photoshop, facilitating client acquisitions from both Bangladesh and the UK.
 - Recognized as the winner in the Art segment of "Progoti: 1st Online Carnival by Utkorsho" [2020].
+- Feel free to follow me on Instagram for more artwork: @amethyststains
 
 ## SKILLS
 - Programming Libraries: Python (Numpy, Pandas, SciPy, Matplotlib, TensorFlow, PyTorch), C++/C, FPGA
