@@ -62,3 +62,11 @@ International Symposium on Agents, Multi-Agent Systems and Robotics (ISAMSR), pp
 10.1109/ISAMSR53229.2021.9567826.
 3. Z.-E.-N. Akhand et al., "Lung Cancer Detection Using Ensemble Technique of CNN," 2023 Proceedings of
 International Conference on
+
+## Contact Information
+
+- Email: ttahiat@gmail.com
+- LinkedIn: [Tashfia Tahiat on LinkedIn](https://www.linkedin.com/in/tashfiatahiat)
+- GitHub: [Tashfia Tahiat on GitHub](https://github.com/ttahiat)
+- WhatsApp: +44 7475 595345
+- Phone: +44 7475 595345 (UK), +88 01849624177 (Bangladesh)
