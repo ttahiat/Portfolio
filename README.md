@@ -3,7 +3,7 @@
 ## Education
 - **Masters in Robotics and Autonomous Systems**
   - University of Bath (Oct 2022 - Nov 2023)
-  - Merit
+  - Grade: Merit
 
 - **Bachelor Degree in Electrical and Electronic Engineering**
   - BRAC University (Sept 2017 - June 2021)
@@ -36,9 +36,15 @@ intercepting security solutions, ensuring adherence to technical specifications.
 - Assisted in procurement, installation, and training phases of final deployment, contributing to successful
 project execution.
 
-**Brac University | Teaching Assistant (_Sept 2020 - Sept 2021_)**                                                                                                            
+**Brac University | Teaching Assistant (_Sept 2020 - Sept 2021_)**                                                 
 -	Supported professors in teaching three engineering elective modules: VLSI, Digital System Design, and Microcontrollers.
 -	Supervised exams, checked quiz copies, and marked coding assignments, fostering smooth course delivery and enhancing student performance across different proficiency levels. 
+
+**Amethyst Stains| Founder & Artist (_Sept 2021 - Present_)** 
+- Produced a diverse array of drawings and paintings using mediums such as charcoal, acrylic, and watercolor, aiming to capture and confront various social stigmas.
+- Explore my published artwork: Global Commons. This piece, supported by the Open Society University Network, portrays a poignant scene of a child beside their mother's blood during the Bangladesh liberation war, reflecting on the enduring trauma of conflict.
+- Developed proficiency in digital marketing and Adobe Photoshop, facilitating client acquisitions from both Bangladesh and the UK.
+- Recognized as the winner in the Art segment of "Progoti: 1st Online Carnival by Utkorsho" [2020].
 
 ## SKILLS
 - Programming Libraries: Python (Numpy, Pandas, SciPy, Matplotlib, TensorFlow, PyTorch), C++/C, FPGA
