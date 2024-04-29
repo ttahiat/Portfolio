@@ -40,7 +40,7 @@ project execution
 -	Supported professors in teaching three engineering elective modules: VLSI, Digital System Design, and Microcontrollers
 -	Supervised exams, checked quiz copies, and marked coding assignments, fostering smooth course delivery and enhancing student performance across different proficiency levels
 
-**Amethyst Stains| Founder & Artist (_Sept 2021 - Present_)** 
+**[Amethyst Stains](https://ttahiat.github.io/Amethyst_by_Hiya/) | Founder & Artist (_Sept 2021 - Present_)**  
 - Produced a diverse array of drawings and paintings using mediums such as charcoal, acrylic, and watercolor, aiming to capture and confront various social stigmas
 - Explore my published artwork: Global Commons. This piece, supported by the Open Society University Network, portrays a poignant scene of a child beside their mother's blood during the Bangladesh liberation war, reflecting on the enduring trauma of conflict
 - Developed proficiency in digital marketing and Adobe Photoshop, facilitating client acquisitions from both Bangladesh and the UK
