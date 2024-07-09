@@ -19,6 +19,15 @@
 
 ## Work Experience
 
+**Genesis | Journal Manager (_July 2024 – Present_)**                                                                       - Journals submitted are previewed and assessed to ensure they meet the expected criteria
+- Articles are sent to the designated field editors for further evaluation.
+- Authors are contacted to revise their submissions based on the feedback and highlighted points provided by the editors.
+
+**VICTVS Global | Exam Invigilator (_May 2024 – July 2024_)**                                                                
+- Assisted candidates with seating, Wi-Fi connection, and FIFA Agent Platform login; ensured removal of non-permitted items and answered procedural questions.
+- Monitored for misconduct, reported issues, answered questions, and assisted ill candidates during the exam.
+- Helped candidates find belongings and exit promptly; reported observed misconduct to the Chief Invigilator
+
 **Code Kids EDU Limited | Coding Teacher (_Dec 2023 - Feb 2024_)**
 - Organized Christmas holiday camps in primary schools, teaching programming (block programming in
 Minecraft, game development) to children aged 6 to 12
