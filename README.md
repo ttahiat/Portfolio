@@ -64,10 +64,17 @@ project execution
 Operation, IoT (Internet of Things), Object-Oriented Programming (OOP)
 
 ## ACHIEVEMENTS
-- Dean’s Award Scholarship in University of Bath
-- Interviewer for The Times Final Year Student Survey 2023
-- Academic performance based scholarship, BRAC University
-- Enlisted in Vice Chancellors’ List for Academic Performance, BRAC University
+
+1. EXTRA	GE Aerospace Electrical Engineering Job Simulation on Forage - October 2024
+CURRICULAR	Completed a job simulation in electrical system design and navigation troubleshooting under    		adverse conditions, gaining proficiency in electrical distribution planning, circuit breaker selection, 		aerospace standards compliance, and developing critical thinking technical documentation skills.
+	
+2. British Airways Data Science Job Simulation on Forage - November 2024                     
+Completed a simulation highlighting the crucial role of data science in British Airways' success.
+Scraped and analyzed customer review data to uncover insights and trends.
+Developed a predictive model to identify factors influencing buying behavior.
+
+
+
 
 ## PUBLICATIONS
 1. M. M. K. Peyal et al., "Inexpensive Voice Assisted Smart Eyewear for Visually Impaired Persons in Context
